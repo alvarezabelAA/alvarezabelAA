@@ -12,4 +12,5 @@
 - 📓Engineering student
 -  23 Years
 -  Guatemala
+-  Spanish - English 
 
