@@ -42,7 +42,7 @@ Git • GitHub • GitLab • Azure DevOps • Docker • Jira • Playwright
   <a href="https://www.linkedin.com/in/abel-andres-alvarez/">
     <img src="https://img.shields.io/badge/LinkedIn-Abel%20Alvarez-blue?logo=linkedin">
   </a>
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:andresalvarez635@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail">
   </a>
 </p>
